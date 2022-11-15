@@ -11,3 +11,12 @@ teste de branchs secundarias
 
 texto antes do pull
 
+treinando pull e push
+adicionando antes do pull 
+sim pull 
+
+teste
+
+test 23
+
+
